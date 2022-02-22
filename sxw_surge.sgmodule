@@ -1,3 +1,6 @@
+#!name=SurgeModuleForSxw
+#!desc=surge modeule for sxw
+
 [General]
 // General
 http-listen = 0.0.0.0:7891
