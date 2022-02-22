@@ -1,7 +1,7 @@
-#!name=SurgeModuleForSxw
-#!desc=surge modeule for sxw
+#!name=Sxw Surge
+#!desc=Sxw Surge
+#!system=mac
 
 [General]
-// General
 http-listen = 0.0.0.0:7891
 socks5-listen = 0.0.0.0:7890
