@@ -5,4 +5,10 @@
 [General]
 http-listen = 0.0.0.0:7891
 socks5-listen = 0.0.0.0:7890
-skip-proxy = %APPEND% *.360.cn, *.qihoo.net, *.emby.wtf, *.åjmsooo.com
+skip-proxy = %APPEND% *.360.cn, *.qihoo.net, *.emby.wtf, *.jmsooo.com
+
+[Rule]
+# for v2ex.com
+DOMAIN-SUFFIX,v2ex.com,Nexitally
+# for macwk.com
+DOMAIN-SUFFIX,macwk.com,Nexitally
