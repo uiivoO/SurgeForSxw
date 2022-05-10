@@ -14,3 +14,5 @@ DOMAIN-SUFFIX,v2ex.com,Nexitally
 DOMAIN-SUFFIX,macwk.com,Nexitally
 # for topwargame
 DOMAIN-SUFFIX,topwargame.com,Nexitally
+# for weibo
+DOMAIN-SUFFIX,weibo.cn,Nexitally
