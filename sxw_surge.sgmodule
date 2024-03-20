@@ -6,6 +6,11 @@
 http-listen = 0.0.0.0:7891
 socks5-listen = 0.0.0.0:7890
 skip-proxy = %APPEND% *.360.cn, *.qihoo.net, *.emby.wtf, *.jmsooo.com
+# > 从 /etc/hosts 读取 DNS 记录
+read-etc-hosts = true
+# DNS配置
+dns-server = system, 1.1.1.1, 8.8.8.8
+
 
 [Rule]
 # for v2ex.com
@@ -15,6 +20,5 @@ DOMAIN-SUFFIX,macwk.com,Nexitally
 # for topwargame
 DOMAIN-SUFFIX,topwargame.com,Nexitally
 DOMAIN-SUFFIX,rivergame.net,Nexitally
-# for fanfou/nofan
-# DOMAIN-SUFFIX,fanfou.com,Nexitally
+# for nofan.xyz
 DOMAIN-SUFFIX,nofan.xyz,Nexitally
