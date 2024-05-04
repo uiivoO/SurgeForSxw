@@ -21,3 +21,12 @@ DOMAIN-SUFFIX,topwargame.com,Nexitally
 DOMAIN-SUFFIX,rivergame.net,Nexitally
 # for nofan.xyz
 DOMAIN-SUFFIX,nofan.xyz,Nexitally
+# 国内常见域名
+RULE-SET,https://ruleset.skk.moe/List/non_ip/domestic.conf,DIRECT,
+# 内网域名
+RULE-SET,https://ruleset.skk.moe/List/non_ip/lan.conf,DIRECT
+# 局域网网段
+RULE-SET,https://ruleset.skk.moe/List/ip/lan.conf,DIRECT
+# 国内IP段
+RULE-SET,https://ruleset.skk.moe/List/ip/domestic.conf,DIRECT
+RULE-SET,https://ruleset.skk.moe/List/ip/china_ip.conf,DIRECT
