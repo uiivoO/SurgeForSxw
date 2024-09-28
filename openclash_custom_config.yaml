@@ -13,8 +13,7 @@ rules:
 ##- RULE-SET,providername,PROXY #匹配规则集
 - DOMAIN-SUFFIX,media.micu.hk,Nexitally
 - DOMAIN-SUFFIX,micu.hk,DIRECT
-- DOMAIN-SUFFIX,v2ex.com,DIRECT
-- SRC-PORT,5555,DIRECT
+- DOMAIN-SUFFIX,v2ex.com,Nexitally
 
 
 ##- IP-CIDR6,2620:0:2d0:200::7/32,PROXY
