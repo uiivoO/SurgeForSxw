@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,nofan.xyz,Nexitally
 DOMAIN-SUFFIX,media.micu.hk,Nexitally
 # 国外: https://e1.tls.ink:443
 DOMAIN-SUFFIX,e1.tls.ink,Nexitally
+# https://shweet.icu/
+DOMAIN-SUFFIX,shweet.icu,Nexitally
 # 国内常见域名
 RULE-SET,https://ruleset.skk.moe/List/non_ip/domestic.conf,DIRECT,
 # 内网域名
