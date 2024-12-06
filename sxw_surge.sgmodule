@@ -39,3 +39,8 @@ RULE-SET,https://ruleset.skk.moe/List/ip/lan.conf,DIRECT
 # 国内IP段
 RULE-SET,https://ruleset.skk.moe/List/ip/domestic.conf,DIRECT
 RULE-SET,https://ruleset.skk.moe/List/ip/china_ip.conf,DIRECT
+# Github Copilot
+DOMAIN-SUFFIX,githubcopilot.com,Nexitally
+DOMAIN-SUFFIX,default.exp-tas.com,Nexitally
+DOMAIN-SUFFIX,githubusercontent.com,Nexitally
+DOMAIN-SUFFIX,github.com,Nexitally
