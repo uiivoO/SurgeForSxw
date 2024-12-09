@@ -13,23 +13,23 @@ dns-server = system, 1.1.1.1, 8.8.8.8
 
 [Rule]
 # for v2ex.com
-DOMAIN-SUFFIX,v2ex.com,Nexitally
+DOMAIN-SUFFIX,v2ex.com,Proxies
 # for topwargame
-DOMAIN-SUFFIX,topwargame.com,Nexitally
-DOMAIN-SUFFIX,rivergame.net,Nexitally
+DOMAIN-SUFFIX,topwargame.com,Proxies
+DOMAIN-SUFFIX,rivergame.net,Proxies
 # for nofan.xyz
-DOMAIN-SUFFIX,nofan.xyz,Nexitally
-DOMAIN-SUFFIX,fanfou.com,Nexitally
-DOMAIN-SUFFIX,shweet.icu,Nexitally
-DOMAIN-SUFFIX,media.micu.hk,Nexitally
+DOMAIN-SUFFIX,nofan.xyz,Proxies
+DOMAIN-SUFFIX,fanfou.com,Proxies
+DOMAIN-SUFFIX,shweet.icu,Proxies
+DOMAIN-SUFFIX,media.micu.hk,Proxies
 # 国外: https://e1.tls.ink:443
-DOMAIN-SUFFIX,e1.tls.ink,Nexitally
+DOMAIN-SUFFIX,e1.tls.ink,Proxies
 # https://shweet.icu/
-DOMAIN-SUFFIX,shweet.icu,Nexitally
+DOMAIN-SUFFIX,shweet.icu,Proxies
 # emby micu.hk
 DOMAIN-SUFFIX,tv.micu.hk,DIRECT
 DOMAIN-SUFFIX,tv1.micu.hk,DIRECT
-DOMAIN-SUFFIX,media.micu.hk,Nexitally
+DOMAIN-SUFFIX,media.micu.hk,Proxies
 # 国内常见域名
 RULE-SET,https://ruleset.skk.moe/List/non_ip/domestic.conf,DIRECT,
 # 内网域名
@@ -40,7 +40,7 @@ RULE-SET,https://ruleset.skk.moe/List/ip/lan.conf,DIRECT
 RULE-SET,https://ruleset.skk.moe/List/ip/domestic.conf,DIRECT
 RULE-SET,https://ruleset.skk.moe/List/ip/china_ip.conf,DIRECT
 # Github Copilot
-DOMAIN-SUFFIX,githubcopilot.com,Nexitally
-DOMAIN-SUFFIX,default.exp-tas.com,Nexitally
-DOMAIN-SUFFIX,githubusercontent.com,Nexitally
-DOMAIN-SUFFIX,github.com,Nexitally
+DOMAIN-SUFFIX,githubcopilot.com,Proxies
+DOMAIN-SUFFIX,default.exp-tas.com,Proxies
+DOMAIN-SUFFIX,githubusercontent.com,Proxies
+DOMAIN-SUFFIX,github.com,Proxies
