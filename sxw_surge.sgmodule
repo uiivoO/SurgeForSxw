@@ -21,14 +21,13 @@ DOMAIN-SUFFIX,rivergame.net,Proxies
 DOMAIN-SUFFIX,nofan.xyz,Proxies
 DOMAIN-SUFFIX,fanfou.com,Proxies
 DOMAIN-SUFFIX,shweet.icu,Proxies
-DOMAIN-SUFFIX,media.micu.hk,Proxies
+DOMAIN-SUFFIX,micu.hk,DIRECT
 # 国外: https://e1.tls.ink:443
 DOMAIN-SUFFIX,e1.tls.ink,Proxies
 # https://shweet.icu/
 DOMAIN-SUFFIX,shweet.icu,Proxies
 # emby micu.hk
 DOMAIN-SUFFIX,tv.micu.hk,DIRECT
-DOMAIN-SUFFIX,tv1.micu.hk,DIRECT
 DOMAIN-SUFFIX,media.micu.hk,Proxies
 # 国内常见域名
 RULE-SET,https://ruleset.skk.moe/List/non_ip/domestic.conf,DIRECT,
