@@ -14,6 +14,8 @@ dns-server = 1.1.1.1, 8.8.8.8, system
 [Rule]
 # for v2ex.com
 DOMAIN-SUFFIX,v2ex.com,Proxies
+# for deepseek.com
+DOMAIN-SUFFIX,deepseek.com,Proxies
 # for topwargame
 DOMAIN-SUFFIX,topwargame.com,Proxies
 DOMAIN-SUFFIX,rivergame.net,Proxies
