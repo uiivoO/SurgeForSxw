@@ -47,3 +47,5 @@ DOMAIN-SUFFIX,githubusercontent.com,Proxies
 DOMAIN-SUFFIX,github.com,Proxies
 # vscode setting
 PROCESS-NAME,Code,Proxies
+# deepseek
+DOMAIN-SUFFIX,deepseek.com,Proxies
