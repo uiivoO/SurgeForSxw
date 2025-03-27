@@ -51,3 +51,5 @@ DOMAIN-SUFFIX,github.com,Proxies
 PROCESS-NAME,Code,Proxies
 # deepseek
 DOMAIN-SUFFIX,deepseek.com,Proxies
+# duanjuso.com
+DOMAIN-SUFFIX,duanjuso,Proxies
