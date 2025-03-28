@@ -53,3 +53,5 @@ PROCESS-NAME,Code,Proxies
 DOMAIN-SUFFIX,deepseek.com,Proxies
 # duanjuso.com
 DOMAIN-SUFFIX,duanjuso,Proxies
+# mypikpak.com
+DOMAIN-SUFFIX,mypikpak.com,Proxies
