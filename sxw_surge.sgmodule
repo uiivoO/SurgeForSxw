@@ -23,7 +23,9 @@ DOMAIN-SUFFIX,rivergame.net,Proxies
 DOMAIN-SUFFIX,nofan.xyz,Proxies
 DOMAIN-SUFFIX,fanfou.com,Proxies
 DOMAIN-SUFFIX,shweet.icu,Proxies
-DOMAIN-SUFFIX,micu.hk,DIRECT
+DOMAIN-SUFFIX,tv.micu.hk,DIRECT
+DOMAIN-SUFFIX,tv1.micu.hk,DIRECT
+DOMAIN-SUFFIX,media.micu.hk,Proxies
 # 国外: https://e1.tls.ink:443
 DOMAIN-SUFFIX,e1.tls.ink,Proxies
 # https://shweet.icu/
